@@ -1,4 +1,8 @@
 Algorithme EstPalindrome(mot)
+VAR
+mot, mot1, mot2, mot3, mot4: chaîne de caractere;
+
+
 
     Si Longueur(mot) <= 1 alors
         Retourner Vrai  // Un mot vide ou un mot d'un seul caractère est un palindrome
