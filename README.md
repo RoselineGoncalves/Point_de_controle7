@@ -1,0 +1,1 @@
+Algorithme de palindrôme permettant de comparer les caractères situés aux extrémités d'un mot
